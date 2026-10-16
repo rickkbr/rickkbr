@@ -18,7 +18,7 @@
 
 
 
-> about_me
+> about me
 
 Name: rickkbr
 Role: Developer
